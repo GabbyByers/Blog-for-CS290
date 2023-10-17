@@ -1,0 +1,36 @@
+h1, h2, p {
+    text-align: center;
+}
+
+h1 {
+    margin-top: 30px;
+}
+
+h2 {
+    font-size: 18px;
+    font-weight: normal;
+    text-align: center;
+}
+
+p {
+    font-size: 14px;
+}
+
+.blog {
+    text-align: center;
+    margin: 70px;
+}
+
+.number {
+    font-weight: bold;
+}
+
+.date {
+    font-style: italic;
+    margin-bottom: 5px;
+}
+
+.content {
+    margin-left: 30.0%;
+    margin-right: 30.0%;
+}

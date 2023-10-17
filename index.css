@@ -1,0 +1,42 @@
+h1, h2, p {
+    text-align: center;
+}
+
+.left {
+    float: left;
+    width: 60%;
+}
+
+.right {
+    float: right;
+    width: 40%;
+}
+
+h2 {
+    font-size: 18px;
+    font-weight: normal;
+    text-align: center;
+}
+
+p {
+    font-size: 14px;
+}
+
+.narrow {
+    margin-left: 15.0%;
+    margin-right: 15.0%;
+}
+
+.preceding_small_text {
+    margin-bottom: 3px;
+}
+
+h2 > p {
+    margin: 3px;
+}
+
+.image {
+    margin: 50px;
+    border: 20px;
+    border-color: pink;
+}
